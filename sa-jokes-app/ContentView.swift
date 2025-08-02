@@ -15,7 +15,9 @@ struct ContentView: View {
                  Joke(setup: "Dad, can you put my shoes on?",
                       punchline: "I dont think they'll fit me"),
                  Joke(setup:"testjoke",
-                      punchline:"testpunchline")]
+                      punchline:"testpunchline"),
+                 Joke(setup:"Second testjoke",
+                      punchline:"text punchline")]
     
     @State private var showPunchline = false
     @State private var currentJoke = 0
