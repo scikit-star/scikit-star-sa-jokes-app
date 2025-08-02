@@ -1,1 +1,1 @@
-Jokes App to learning GitHub 
+Jokes App to learn GitHub 
